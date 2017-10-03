@@ -1,0 +1,1356 @@
+### TIMED BUILD OUTPUT WITHOUT -split-sections
+[1 of 2] Compiling Main             ( /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-src/setup-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-src/setup-mPHDZzAJ.o )
+[2 of 2] Compiling StackSetupShim   ( /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-src/setup-shim-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-src/setup-shim-mPHDZzAJ.o )
+Linking /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-cache/x86_64-linux/tmp-Cabal-simple_mPHDZzAJ_2.0.0.2_ghc-8.2.1 ...
+annotated-wl-pprint-0.7.0: configure
+annotated-wl-pprint-0.7.0: build
+auto-update-0.1.4: configure
+auto-update-0.1.4: build
+ansi-terminal-0.6.3.1: configure
+ansi-terminal-0.6.3.1: build
+base-compat-0.9.3: configure
+auto-update-0.1.4: copy/register
+base-compat-0.9.3: build
+annotated-wl-pprint-0.7.0: copy/register
+base-orphans-0.6: configure
+base-orphans-0.6: build
+base16-bytestring-0.1.1.6: configure
+base-orphans-0.6: copy/register
+base16-bytestring-0.1.1.6: build
+base64-bytestring-1.0.0.1: configure
+base-compat-0.9.3: copy/register
+base64-bytestring-1.0.0.1: build
+basement-0.0.2: configure
+base16-bytestring-0.1.1.6: copy/register
+basement-0.0.2: build
+bindings-uname-0.1: configure
+bindings-uname-0.1: build
+base64-bytestring-1.0.0.1: copy/register
+bindings-uname-0.1: copy/register
+bitarray-0.0.1.1: configure
+ansi-terminal-0.6.3.1: copy/register
+bitarray-0.0.1.1: build
+byteable-0.1.1: configure
+byteable-0.1.1: build
+ansi-wl-pprint-0.6.8.1: configure
+ansi-wl-pprint-0.6.8.1: build
+byteable-0.1.1: copy/register
+cabal-doctest-1.0.2: configure
+cabal-doctest-1.0.2: build
+bitarray-0.0.1.1: copy/register
+call-stack-0.1.0: configure
+ansi-wl-pprint-0.6.8.1: copy/register
+call-stack-0.1.0: build
+cereal-0.5.4.0: configure
+cereal-0.5.4.0: build
+call-stack-0.1.0: copy/register
+cabal-doctest-1.0.2: copy/register
+HUnit-1.6.0.0: configure
+HUnit-1.6.0.0: build
+clock-0.7.2: configure
+clock-0.7.2: build
+HUnit-1.6.0.0: copy/register
+cryptohash-sha256-0.11.100.1: configure
+clock-0.7.2: copy/register
+cryptohash-sha256-0.11.100.1: build
+data-default-class-0.1.2.0: configure
+data-default-class-0.1.2.0: build
+cryptohash-sha256-0.11.100.1: copy/register
+data-default-class-0.1.2.0: copy/register
+digest-0.0.1.2: configure
+digest-0.0.1.2: build
+dlist-0.8.0.3: configure
+dlist-0.8.0.3: build
+digest-0.0.1.2: copy/register
+easy-file-0.2.1: configure
+easy-file-0.2.1: build
+dlist-0.8.0.3: copy/register
+echo-0.1.3: configure
+echo-0.1.3: build
+easy-file-0.2.1: copy/register
+ed25519-0.0.5.0: configure
+echo-0.1.3: copy/register
+ed25519-0.0.5.0: build
+extra-1.6: configure
+extra-1.6: build
+cereal-0.5.4.0: copy/register
+extra-1.6: copy/register
+fail-4.9.0.0: configure
+ed25519-0.0.5.0: copy/register
+fail-4.9.0.0: build
+file-embed-0.0.10.1: configure
+fail-4.9.0.0: copy/register
+file-embed-0.0.10.1: build
+filelock-0.1.1.2: configure
+filelock-0.1.1.2: build
+generic-deriving-1.11.2: configure
+generic-deriving-1.11.2: build
+file-embed-0.0.10.1: copy/register
+filelock-0.1.1.2: copy/register
+gitrev-1.3.1: configure
+gitrev-1.3.1: build
+hourglass-0.2.10: configure
+hourglass-0.2.10: build
+gitrev-1.3.1: copy/register
+hspec-discover-2.4.4: configure
+hspec-discover-2.4.4: build
+hspec-discover-2.4.4: copy/register
+hspec-expectations-0.8.2: configure
+hspec-expectations-0.8.2: build
+hspec-expectations-0.8.2: copy/register
+ieee754-0.8.0: configure
+ieee754-0.8.0: build
+ieee754-0.8.0: copy/register
+integer-logarithms-1.0.2: configure
+integer-logarithms-1.0.2: build
+basement-0.0.2: copy/register
+hourglass-0.2.10: copy/register
+foundation-0.0.15: configure
+integer-logarithms-1.0.2: copy/register
+foundation-0.0.15: build
+microlens-0.4.8.1: configure
+microlens-0.4.8.1: build
+mintty-0.1.1: configure
+mintty-0.1.1: build
+mintty-0.1.1: copy/register
+monad-loops-0.4.3: configure
+monad-loops-0.4.3: build
+microlens-0.4.8.1: copy/register
+microlens-th-0.4.1.1: configure
+microlens-th-0.4.1.1: build
+monad-loops-0.4.3: copy/register
+mtl-2.2.1: configure
+mtl-2.2.1: build
+mtl-2.2.1: copy/register
+logict-0.6.0.2: configure
+microlens-th-0.4.1.1: copy/register
+logict-0.6.0.2: build
+network-2.6.3.2: configure
+logict-0.6.0.2: copy/register
+network-2.6.3.2: build
+old-locale-1.0.0.7: configure
+old-locale-1.0.0.7: build
+old-locale-1.0.0.7: copy/register
+old-time-1.1.0.3: configure
+generic-deriving-1.11.2: copy/register
+old-time-1.1.0.3: build
+open-browser-0.2.1.0: configure
+open-browser-0.2.1.0: build
+open-browser-0.2.1.0: copy/register
+pem-0.2.2: configure
+pem-0.2.2: build
+pem-0.2.2: copy/register
+pid1-0.1.2.0: configure
+old-time-1.1.0.3: copy/register
+pid1-0.1.2.0: build
+network-2.6.3.2: copy/register
+prelude-extras-0.4.0.3: configure
+prelude-extras-0.4.0.3: build
+primitive-0.6.2.0: configure
+primitive-0.6.2.0: build
+pid1-0.1.2.0: copy/register
+random-1.1: configure
+random-1.1: build
+prelude-extras-0.4.0.3: copy/register
+regex-applicative-0.3.3: configure
+regex-applicative-0.3.3: build
+regex-applicative-0.3.3: copy/register
+safe-0.3.15: configure
+safe-0.3.15: build
+random-1.1: copy/register
+primitive-0.6.2.0: copy/register
+semigroups-0.18.3: configure
+semigroups-0.18.3: build
+setenv-0.1.1.3: configure
+setenv-0.1.1.3: build
+semigroups-0.18.3: copy/register
+silently-1.2.5: configure
+setenv-0.1.1.3: copy/register
+safe-0.3.15: copy/register
+silently-1.2.5: build
+smallcheck-1.1.2: configure
+smallcheck-1.1.2: build
+socks-0.5.5: configure
+silently-1.2.5: copy/register
+socks-0.5.5: build
+split-0.2.3.2: configure
+split-0.2.3.2: build
+split-0.2.3.2: copy/register
+stm-2.4.4.1: configure
+stm-2.4.4.1: build
+smallcheck-1.1.2: copy/register
+syb-0.7: configure
+stm-2.4.4.1: copy/register
+syb-0.7: build
+StateVar-1.1.0.4: configure
+foundation-0.0.15: copy/register
+StateVar-1.1.0.4: build
+async-2.1.1.1: configure
+StateVar-1.1.0.4: copy/register
+async-2.1.1.1: build
+memory-0.14.8: configure
+memory-0.14.8: build
+socks-0.5.5: copy/register
+stm-chans-3.0.0.4: configure
+syb-0.7: copy/register
+async-2.1.1.1: copy/register
+stm-chans-3.0.0.4: build
+tar-0.5.0.3: configure
+tar-0.5.0.3: build
+hinotify-0.3.9: configure
+hinotify-0.3.9: build
+stm-chans-3.0.0.4: copy/register
+text-1.2.2.2: configure
+text-1.2.2.2: build
+memory-0.14.8: copy/register
+asn1-types-0.3.2: configure
+hinotify-0.3.9: copy/register
+asn1-types-0.3.2: build
+cryptonite-0.24: configure
+cryptonite-0.24: build
+asn1-types-0.3.2: copy/register
+asn1-encoding-0.9.5: configure
+asn1-encoding-0.9.5: build
+tar-0.5.0.3: copy/register
+tf-random-0.5: configure
+tf-random-0.5: build
+asn1-encoding-0.9.5: copy/register
+asn1-parse-0.9.4: configure
+asn1-parse-0.9.4: build
+asn1-parse-0.9.4: copy/register
+th-abstraction-0.2.6.0: configure
+tf-random-0.5: copy/register
+th-abstraction-0.2.6.0: build
+QuickCheck-2.10.0.1: configure
+QuickCheck-2.10.0.1: build
+th-abstraction-0.2.6.0: copy/register
+th-expand-syns-0.4.3.0: configure
+th-expand-syns-0.4.3.0: build
+th-expand-syns-0.4.3.0: copy/register
+th-lift-0.7.7: configure
+th-lift-0.7.7: build
+th-lift-0.7.7: copy/register
+th-reify-many-0.1.8: configure
+th-reify-many-0.1.8: build
+th-reify-many-0.1.8: copy/register
+time-locale-compat-0.1.1.3: configure
+time-locale-compat-0.1.1.3: build
+time-locale-compat-0.1.1.3: copy/register
+transformers-compat-0.5.1.4: configure
+transformers-compat-0.5.1.4: build
+transformers-compat-0.5.1.4: copy/register
+Glob-0.8.0: configure
+Glob-0.8.0: build
+QuickCheck-2.10.0.1: copy/register
+MonadRandom-0.5.1: configure
+MonadRandom-0.5.1: build
+Glob-0.8.0: copy/register
+exceptions-0.8.3: configure
+MonadRandom-0.5.1: copy/register
+exceptions-0.8.3: build
+microlens-mtl-0.1.11.0: configure
+microlens-mtl-0.1.11.0: build
+exceptions-0.8.3: copy/register
+mmorph-1.1.0: configure
+microlens-mtl-0.1.11.0: copy/register
+mmorph-1.1.0: build
+optparse-applicative-0.14.0.0: configure
+optparse-applicative-0.14.0.0: build
+mmorph-1.1.0: copy/register
+quickcheck-io-0.2.0: configure
+quickcheck-io-0.2.0: build
+quickcheck-io-0.2.0: copy/register
+hspec-core-2.4.4: configure
+hspec-core-2.4.4: build
+optparse-applicative-0.14.0.0: copy/register
+retry-0.7.4.2: configure
+retry-0.7.4.2: build
+retry-0.7.4.2: copy/register
+tagged-0.8.5: configure
+hspec-core-2.4.4: copy/register
+tagged-0.8.5: build
+hspec-2.4.4: configure
+hspec-2.4.4: build
+hspec-2.4.4: copy/register
+hspec-smallcheck-0.4.2: configure
+tagged-0.8.5: copy/register
+hspec-smallcheck-0.4.2: build
+distributive-0.5.3: configure
+hspec-smallcheck-0.4.2: copy/register
+distributive-0.5.3: build
+temporary-1.2.1.1: configure
+temporary-1.2.1.1: build
+distributive-0.5.3: copy/register
+temporary-1.2.1.1: copy/register
+transformers-base-0.4.4: configure
+transformers-base-0.4.4: build
+unix-compat-0.4.3.1: configure
+unix-compat-0.4.3.1: build
+transformers-base-0.4.4: copy/register
+monad-control-1.0.2.2: configure
+unix-compat-0.4.3.1: copy/register
+monad-control-1.0.2.2: build
+unix-time-0.3.7: configure
+monad-control-1.0.2.2: copy/register
+text-1.2.2.2: copy/register
+unix-time-0.3.7: build
+lifted-base-0.2.3.11: configure
+lifted-base-0.2.3.11: build
+blaze-builder-0.4.0.2: configure
+blaze-builder-0.4.0.2: build
+unix-time-0.3.7: copy/register
+fast-logger-2.4.10: configure
+lifted-base-0.2.3.11: copy/register
+fast-logger-2.4.10: build
+fsnotify-0.2.1.1: configure
+fsnotify-0.2.1.1: build
+cryptonite-0.24: copy/register
+cryptohash-0.11.9: configure
+cryptohash-0.11.9: build
+blaze-builder-0.4.0.2: copy/register
+blaze-markup-0.8.0.0: configure
+fast-logger-2.4.10: copy/register
+blaze-markup-0.8.0.0: build
+cookie-0.4.2.1: configure
+fsnotify-0.2.1.1: copy/register
+cookie-0.4.2.1: build
+hashable-1.2.6.1: configure
+hashable-1.2.6.1: build
+cookie-0.4.2.1: copy/register
+hastache-0.6.1: configure
+hastache-0.6.1: build
+cryptohash-0.11.9: copy/register
+mime-types-0.1.0.7: configure
+hashable-1.2.6.1: copy/register
+mime-types-0.1.0.7: build
+case-insensitive-1.2.0.10: configure
+case-insensitive-1.2.0.10: build
+blaze-markup-0.8.0.0: copy/register
+case-insensitive-1.2.0.10: copy/register
+blaze-html-0.9.0.1: configure
+blaze-html-0.9.0.1: build
+http-types-0.9.1: configure
+http-types-0.9.1: build
+http-types-0.9.1: copy/register
+parsec-3.1.11: configure
+mime-types-0.1.0.7: copy/register
+parsec-3.1.11: build
+path-pieces-0.2.1: configure
+path-pieces-0.2.1: build
+hastache-0.6.1: copy/register
+regex-applicative-text-0.1.0.1: configure
+regex-applicative-text-0.1.0.1: build
+path-pieces-0.2.1: copy/register
+resourcet-1.1.9: configure
+regex-applicative-text-0.1.0.1: copy/register
+resourcet-1.1.9: build
+scientific-0.3.5.2: configure
+scientific-0.3.5.2: build
+resourcet-1.1.9: copy/register
+conduit-1.2.12.1: configure
+conduit-1.2.12.1: build
+parsec-3.1.11: copy/register
+network-uri-2.6.1.0: configure
+scientific-0.3.5.2: copy/register
+network-uri-2.6.1.0: build
+attoparsec-0.13.2.0: configure
+blaze-html-0.9.0.1: copy/register
+attoparsec-0.13.2.0: build
+store-core-0.4.1: configure
+store-core-0.4.1: build
+store-core-0.4.1: copy/register
+unicode-transforms-0.3.3: configure
+unicode-transforms-0.3.3: build
+conduit-1.2.12.1: copy/register
+unliftio-core-0.1.0.0: configure
+network-uri-2.6.1.0: copy/register
+unliftio-core-0.1.0.0: build
+unordered-containers-0.2.8.0: configure
+unliftio-core-0.1.0.0: copy/register
+unordered-containers-0.2.8.0: build
+uuid-types-1.0.3: configure
+uuid-types-1.0.3: build
+uuid-types-1.0.3: copy/register
+vector-0.12.0.1: configure
+vector-0.12.0.1: build
+unordered-containers-0.2.8.0: copy/register
+void-0.7.2: configure
+void-0.7.2: build
+void-0.7.2: copy/register
+contravariant-1.4: configure
+contravariant-1.4: build
+contravariant-1.4: copy/register
+comonad-5.0.2: configure
+comonad-5.0.2: build
+unicode-transforms-0.3.3: copy/register
+x509-1.7.2: configure
+comonad-5.0.2: copy/register
+x509-1.7.2: build
+bifunctors-5.4.2: configure
+bifunctors-5.4.2: build
+attoparsec-0.13.2.0: copy/register
+attoparsec-iso8601-1.0.0.0: configure
+attoparsec-iso8601-1.0.0.0: build
+attoparsec-iso8601-1.0.0.0: copy/register
+zlib-0.6.1.2: configure
+zlib-0.6.1.2: build
+x509-1.7.2: copy/register
+x509-store-1.6.5: configure
+x509-store-1.6.5: build
+x509-store-1.6.5: copy/register
+x509-system-1.6.6: configure
+bifunctors-5.4.2: copy/register
+x509-system-1.6.6: build
+profunctors-5.2.1: configure
+profunctors-5.2.1: build
+x509-system-1.6.6: copy/register
+semigroupoids-5.2.1: configure
+zlib-0.6.1.2: copy/register
+semigroupoids-5.2.1: build
+hackage-security-0.5.2.2: configure
+hackage-security-0.5.2.2: build
+profunctors-5.2.1: copy/register
+streaming-commons-0.1.18: configure
+streaming-commons-0.1.18: build
+semigroupoids-5.2.1: copy/register
+free-4.12.4: configure
+free-4.12.4: build
+streaming-commons-0.1.18: copy/register
+conduit-extra-1.1.17: configure
+hackage-security-0.5.2.2: copy/register
+conduit-extra-1.1.17: build
+http-client-0.5.7.0: configure
+http-client-0.5.7.0: build
+free-4.12.4: copy/register
+either-4.4.1.1: configure
+either-4.4.1.1: build
+conduit-extra-1.1.17: copy/register
+cryptonite-conduit-0.2.0: configure
+cryptonite-conduit-0.2.0: build
+cryptonite-conduit-0.2.0: copy/register
+monad-logger-0.3.25.1: configure
+either-4.4.1.1: copy/register
+monad-logger-0.3.25.1: build
+optparse-simple-0.0.3: configure
+optparse-simple-0.0.3: build
+optparse-simple-0.0.3: copy/register
+http-client-0.5.7.0: copy/register
+project-template-0.2.0: configure
+project-template-0.2.0: build
+x509-validation-1.6.9: configure
+x509-validation-1.6.9: build
+monad-logger-0.3.25.1: copy/register
+unliftio-0.1.0.0: configure
+project-template-0.2.0: copy/register
+unliftio-0.1.0.0: build
+zip-archive-0.3.1.1: configure
+zip-archive-0.3.1.1: build
+x509-validation-1.6.9: copy/register
+tls-1.4.0: configure
+tls-1.4.0: build
+unliftio-0.1.0.0: copy/register
+zip-archive-0.3.1.1: copy/register
+vector-0.12.0.1: copy/register
+text-metrics-0.3.0: configure
+text-metrics-0.3.0: build
+resource-pool-0.2.3.2: configure
+resource-pool-0.2.3.2: build
+aeson-1.2.2.0: configure
+aeson-1.2.2.0: build
+resource-pool-0.2.3.2: copy/register
+th-lift-instances-0.1.11: configure
+th-lift-instances-0.1.11: build
+th-lift-instances-0.1.11: copy/register
+th-orphans-0.13.4: configure
+text-metrics-0.3.0: copy/register
+th-orphans-0.13.4: build
+uri-bytestring-0.2.3.3: configure
+uri-bytestring-0.2.3.3: build
+th-orphans-0.13.4: copy/register
+th-utilities-0.2.0.1: configure
+th-utilities-0.2.0.1: build
+uri-bytestring-0.2.3.3: copy/register
+http-api-data-0.3.7.1: configure
+th-utilities-0.2.0.1: copy/register
+http-api-data-0.3.7.1: build
+vector-th-unbox-0.2.1.6: configure
+vector-th-unbox-0.2.1.6: build
+vector-th-unbox-0.2.1.6: copy/register
+math-functions-0.2.1.0: configure
+math-functions-0.2.1.0: build
+tls-1.4.0: copy/register
+connection-0.2.8: configure
+connection-0.2.8: build
+connection-0.2.8: copy/register
+http-client-tls-0.3.5.1: configure
+http-client-tls-0.3.5.1: build
+http-client-tls-0.3.5.1: copy/register
+http-api-data-0.3.7.1: copy/register
+math-functions-0.2.1.0: copy/register
+mwc-random-0.13.6.0: configure
+mwc-random-0.13.6.0: build
+mwc-random-0.13.6.0: copy/register
+vector-algorithms-0.7.0.1: configure
+vector-algorithms-0.7.0.1: build
+aeson-1.2.2.0: copy/register
+aeson-compat-0.3.7.1: configure
+aeson-compat-0.3.7.1: build
+path-0.6.1: configure
+path-0.6.1: build
+http-conduit-2.2.3.2: configure
+aeson-compat-0.3.7.1: copy/register
+http-conduit-2.2.3.2: build
+persistent-2.7.0: configure
+vector-algorithms-0.7.0.1: copy/register
+persistent-2.7.0: build
+mono-traversable-1.0.2.1: configure
+mono-traversable-1.0.2.1: build
+path-0.6.1: copy/register
+path-io-1.3.3: configure
+http-conduit-2.2.3.2: copy/register
+path-io-1.3.3: build
+yaml-0.8.23.3: configure
+yaml-0.8.23.3: build
+path-io-1.3.3: copy/register
+yaml-0.8.23.3: copy/register
+hpack-0.18.1: configure
+hpack-0.18.1: build
+mono-traversable-1.0.2.1: copy/register
+store-0.4.3.2: configure
+store-0.4.3.2: build
+persistent-2.7.0: copy/register
+persistent-template-2.5.2: configure
+persistent-template-2.5.2: build
+persistent-sqlite-2.6.2: configure
+persistent-sqlite-2.6.2: build
+hpack-0.18.1: copy/register
+persistent-template-2.5.2: copy/register
+persistent-sqlite-2.6.2: copy/register
+store-0.4.3.2: copy/register
+stack-1.5.1: configure (lib + exe)
+[1 of 2] Compiling Main             ( /home/doug/ghc-dev/stack/Setup.hs, /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/Main.o )
+[2 of 2] Compiling StackSetupShim   ( /home/doug/ghc-dev/stack/dist/.stack-root1/setup-exe-src/setup-shim-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/StackSetupShim.o )
+Linking /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/setup ...
+Configuring stack-1.5.1...
+stack-1.5.1: build (lib + exe)
+Preprocessing library for stack-1.5.1..
+Building library for stack-1.5.1..
+[  1 of 126] Compiling Hackage.Security.Client.Repository.HttpLib.HttpClient ( src/Hackage/Security/Client/Repository/HttpLib/HttpClient.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Hackage/Security/Client/Repository/HttpLib/HttpClient.o )
+[  2 of 126] Compiling Paths_stack      ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/autogen/Paths_stack.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Paths_stack.o )
+[  3 of 126] Compiling Stack.Prelude    ( src/Stack/Prelude.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Prelude.o )
+[  4 of 126] Compiling Stack.Options.Utils ( src/Stack/Options/Utils.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/Utils.o )
+[  5 of 126] Compiling Stack.Options.LogLevelParser ( src/Stack/Options/LogLevelParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/LogLevelParser.o )
+[  6 of 126] Compiling Stack.Ghci.Script ( src/Stack/Ghci/Script.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Ghci/Script.o )
+[  7 of 126] Compiling Stack.FileWatch  ( src/Stack/FileWatch.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/FileWatch.o )
+[  8 of 126] Compiling Path.Find        ( src/Path/Find.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/Find.o )
+[  9 of 126] Compiling Path.Extra       ( src/Path/Extra.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/Extra.o )
+[ 10 of 126] Compiling Path.CheckInstall ( src/Path/CheckInstall.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/CheckInstall.o )
+[ 11 of 126] Compiling Options.Applicative.Complicated ( src/Options/Applicative/Complicated.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Complicated.o )
+[ 12 of 126] Compiling Options.Applicative.Builder.Extra ( src/Options/Applicative/Builder/Extra.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Builder/Extra.o )
+[ 13 of 126] Compiling Stack.Options.SolverParser ( src/Stack/Options/SolverParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/SolverParser.o )
+[ 14 of 126] Compiling Stack.Options.ScriptParser ( src/Stack/Options/ScriptParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ScriptParser.o )
+[ 15 of 126] Compiling Network.HTTP.Download.Verified ( src/Network/HTTP/Download/Verified.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Network/HTTP/Download/Verified.o )
+[ 16 of 126] Compiling Network.HTTP.Download ( src/Network/HTTP/Download.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Network/HTTP/Download.o )
+[ 17 of 126] Compiling Data.Store.VersionTagged ( src/Data/Store/VersionTagged.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Store/VersionTagged.o )
+[ 18 of 126] Compiling Data.IORef.RunOnce ( src/Data/IORef/RunOnce.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/IORef/RunOnce.o )
+[ 19 of 126] Compiling Data.Attoparsec.Combinators ( src/Data/Attoparsec/Combinators.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Combinators.o )
+[ 20 of 126] Compiling Data.Attoparsec.Args ( src/Data/Attoparsec/Args.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Args.o )
+[ 21 of 126] Compiling Options.Applicative.Args ( src/Options/Applicative/Args.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Args.o )
+[ 22 of 126] Compiling Data.Aeson.Extended ( src/Data/Aeson/Extended.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Aeson/Extended.o )
+[ 23 of 126] Compiling Stack.StaticBytes ( src/Stack/StaticBytes.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/StaticBytes.o )
+[ 24 of 126] Compiling Stack.Types.CompilerBuild ( src/Stack/Types/CompilerBuild.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/CompilerBuild.o )
+[ 25 of 126] Compiling Stack.Options.GhcBuildParser ( src/Stack/Options/GhcBuildParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhcBuildParser.o )
+[ 26 of 126] Compiling Stack.Types.FlagName ( src/Stack/Types/FlagName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/FlagName.o )
+[ 27 of 126] Compiling Stack.Types.GhcPkgId ( src/Stack/Types/GhcPkgId.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/GhcPkgId.o )
+[ 28 of 126] Compiling Stack.Types.Image ( src/Stack/Types/Image.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Image.o )
+[ 29 of 126] Compiling Stack.Types.Nix  ( src/Stack/Types/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Nix.o )
+[ 30 of 126] Compiling Stack.Types.PackageName ( src/Stack/Types/PackageName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageName.o )
+[ 31 of 126] Compiling Stack.Types.Config.Build ( src/Stack/Types/Config/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Config/Build.o )
+[ 32 of 126] Compiling Stack.Options.PackageParser ( src/Stack/Options/PackageParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/PackageParser.o )
+[ 33 of 126] Compiling Stack.Types.Sig  ( src/Stack/Types/Sig.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Sig.o )
+[ 34 of 126] Compiling Stack.Sig.GPG    ( src/Stack/Sig/GPG.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig/GPG.o )
+[ 35 of 126] Compiling Stack.Types.TemplateName ( src/Stack/Types/TemplateName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/TemplateName.o )
+[ 36 of 126] Compiling Stack.Types.Urls ( src/Stack/Types/Urls.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Urls.o )
+[ 37 of 126] Compiling Stack.Config.Urls ( src/Stack/Config/Urls.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Urls.o )
+[ 38 of 126] Compiling Stack.Types.Version ( src/Stack/Types/Version.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Version.o )
+[ 39 of 126] Compiling Stack.Types.PackageIdentifier ( src/Stack/Types/PackageIdentifier.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageIdentifier.o )
+[ 40 of 126] Compiling Stack.Types.PackageIndex ( src/Stack/Types/PackageIndex.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageIndex.o )
+[ 41 of 126] Compiling Stack.Types.PackageDump ( src/Stack/Types/PackageDump.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageDump.o )
+[ 42 of 126] Compiling Control.Concurrent.Execute ( src/Control/Concurrent/Execute.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Control/Concurrent/Execute.o )
+[ 43 of 126] Compiling Stack.Types.Compiler ( src/Stack/Types/Compiler.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Compiler.o )
+[ 44 of 126] Compiling Stack.Types.Resolver ( src/Stack/Types/Resolver.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Resolver.o )
+[ 45 of 126] Compiling Stack.Options.ResolverParser ( src/Stack/Options/ResolverParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ResolverParser.o )
+[ 46 of 126] Compiling Stack.Constants  ( src/Stack/Constants.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Constants.o )
+[ 47 of 126] Compiling Stack.Types.Docker ( src/Stack/Types/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Docker.o )
+[ 48 of 126] Compiling Data.Attoparsec.Interpreter ( src/Data/Attoparsec/Interpreter.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Interpreter.o )
+[ 49 of 126] Compiling Stack.Config.Nix ( src/Stack/Config/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Nix.o )
+[ 50 of 126] Compiling Stack.Types.VersionIntervals ( src/Stack/Types/VersionIntervals.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/VersionIntervals.o )
+[ 51 of 126] Compiling Stack.Types.BuildPlan ( src/Stack/Types/BuildPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/BuildPlan.o )
+[ 52 of 126] Compiling System.Process.Log ( src/System/Process/Log.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Log.o )
+[ 53 of 126] Compiling System.Process.PagerEditor ( src/System/Process/PagerEditor.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/PagerEditor.o )
+[ 54 of 126] Compiling System.Process.Read ( src/System/Process/Read.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Read.o )
+[ 55 of 126] Compiling System.Process.Run ( src/System/Process/Run.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Run.o )
+[ 56 of 126] Compiling System.Terminal  ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Terminal.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Terminal.o )
+[ 57 of 126] Compiling Stack.Types.Runner ( src/Stack/Types/Runner.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Runner.o )
+[ 58 of 126] Compiling Stack.Types.Config ( src/Stack/Types/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Config.o )
+[ 59 of 126] Compiling Stack.Upload     ( src/Stack/Upload.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Upload.o )
+[ 60 of 126] Compiling Stack.Types.Package ( src/Stack/Types/Package.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Package.o )
+[ 61 of 126] Compiling Stack.Types.Build ( src/Stack/Types/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Build.o )
+[ 62 of 126] Compiling Stack.GhcPkg     ( src/Stack/GhcPkg.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/GhcPkg.o )
+[ 63 of 126] Compiling Stack.PackageDump ( src/Stack/PackageDump.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageDump.o )
+[ 64 of 126] Compiling Stack.Setup.Installed ( src/Stack/Setup/Installed.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Setup/Installed.o )
+[ 65 of 126] Compiling Stack.PackageIndex ( src/Stack/PackageIndex.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageIndex.o )
+[ 66 of 126] Compiling Stack.Options.TestParser ( src/Stack/Options/TestParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/TestParser.o )
+[ 67 of 126] Compiling Stack.Options.HaddockParser ( src/Stack/Options/HaddockParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/HaddockParser.o )
+[ 68 of 126] Compiling Stack.Options.GhcVariantParser ( src/Stack/Options/GhcVariantParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhcVariantParser.o )
+[ 69 of 126] Compiling Stack.Options.BenchParser ( src/Stack/Options/BenchParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BenchParser.o )
+[ 70 of 126] Compiling Stack.Fetch      ( src/Stack/Fetch.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Fetch.o )
+[ 71 of 126] Compiling Stack.Exec       ( src/Stack/Exec.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Exec.o )
+[ 72 of 126] Compiling Stack.Docker.GlobalDB ( src/Stack/Docker/GlobalDB.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Docker/GlobalDB.o )
+[ 73 of 126] Compiling Stack.Constants.Config ( src/Stack/Constants/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Constants/Config.o )
+[ 74 of 126] Compiling Stack.New        ( src/Stack/New.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/New.o )
+[ 75 of 126] Compiling Stack.Config.Docker ( src/Stack/Config/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Docker.o )
+[ 76 of 126] Compiling Stack.Config.Build ( src/Stack/Config/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Build.o )
+[ 77 of 126] Compiling Stack.Build.Cache ( src/Stack/Build/Cache.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Cache.o )
+[ 78 of 126] Compiling Stack.Build.Installed ( src/Stack/Build/Installed.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Installed.o )
+[ 79 of 126] Compiling Stack.Path       ( src/Stack/Path.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Path.o )
+[ 80 of 126] Compiling Text.PrettyPrint.Leijen.Extended ( src/Text/PrettyPrint/Leijen/Extended.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Text/PrettyPrint/Leijen/Extended.o )
+[ 81 of 126] Compiling Stack.PrettyPrint ( src/Stack/PrettyPrint.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PrettyPrint.o )
+[ 82 of 126] Compiling Stack.Package    ( src/Stack/Package.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Package.o )
+[ 83 of 126] Compiling Stack.Sig.Sign   ( src/Stack/Sig/Sign.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig/Sign.o )
+[ 84 of 126] Compiling Stack.Sig        ( src/Stack/Sig.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig.o )
+[ 85 of 126] Compiling Stack.PackageLocation ( src/Stack/PackageLocation.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageLocation.o )
+[ 86 of 126] Compiling Stack.Snapshot   ( src/Stack/Snapshot.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Snapshot.o )
+[ 87 of 126] Compiling Stack.BuildPlan  ( src/Stack/BuildPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/BuildPlan.o )
+[ 88 of 126] Compiling Stack.Image      ( src/Stack/Image.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Image.o )
+[ 89 of 126] Compiling Stack.Config     ( src/Stack/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config.o )
+[ 90 of 126] Compiling Stack.Nix        ( src/Stack/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Nix.o )
+[ 91 of 126] Compiling Stack.Options.NixParser ( src/Stack/Options/NixParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/NixParser.o )
+[ 92 of 126] Compiling Stack.IDE        ( src/Stack/IDE.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/IDE.o )
+[ 93 of 126] Compiling Stack.ConfigCmd  ( src/Stack/ConfigCmd.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/ConfigCmd.o )
+[ 94 of 126] Compiling Stack.Clean      ( src/Stack/Clean.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Clean.o )
+[ 95 of 126] Compiling Stack.Options.CleanParser ( src/Stack/Options/CleanParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/CleanParser.o )
+[ 96 of 126] Compiling Stack.Build.Target ( src/Stack/Build/Target.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Target.o )
+[ 97 of 126] Compiling Stack.Build.Source ( src/Stack/Build/Source.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Source.o )
+[ 98 of 126] Compiling Stack.Coverage   ( src/Stack/Coverage.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Coverage.o )
+[ 99 of 126] Compiling Stack.Build.Haddock ( src/Stack/Build/Haddock.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Haddock.o )
+[100 of 126] Compiling Stack.Build.Execute ( src/Stack/Build/Execute.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Execute.o )
+[101 of 126] Compiling Stack.Build.ConstructPlan ( src/Stack/Build/ConstructPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/ConstructPlan.o )
+[102 of 126] Compiling Stack.Build      ( src/Stack/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build.o )
+[103 of 126] Compiling Stack.Setup      ( src/Stack/Setup.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Setup.o )
+[104 of 126] Compiling Stack.Upgrade    ( src/Stack/Upgrade.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Upgrade.o )
+[105 of 126] Compiling Stack.Solver     ( src/Stack/Solver.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Solver.o )
+[106 of 126] Compiling Stack.Init       ( src/Stack/Init.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Init.o )
+[107 of 126] Compiling Stack.SetupCmd   ( src/Stack/SetupCmd.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/SetupCmd.o )
+[108 of 126] Compiling Stack.Docker     ( src/Stack/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Docker.o )
+[109 of 126] Compiling Stack.Runners    ( src/Stack/Runners.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Runners.o )
+[110 of 126] Compiling Stack.Options.DockerParser ( src/Stack/Options/DockerParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/DockerParser.o )
+[111 of 126] Compiling Stack.Script     ( src/Stack/Script.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Script.o )
+[112 of 126] Compiling Stack.SDist      ( src/Stack/SDist.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/SDist.o )
+[113 of 126] Compiling Stack.Options.BuildMonoidParser ( src/Stack/Options/BuildMonoidParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BuildMonoidParser.o )
+[114 of 126] Compiling Stack.Options.ConfigParser ( src/Stack/Options/ConfigParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ConfigParser.o )
+[115 of 126] Compiling Stack.Options.GlobalParser ( src/Stack/Options/GlobalParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GlobalParser.o )
+[116 of 126] Compiling Stack.Options.NewParser ( src/Stack/Options/NewParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/NewParser.o )
+[117 of 126] Compiling Stack.Options.Completion ( src/Stack/Options/Completion.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/Completion.o )
+[118 of 126] Compiling Stack.Options.HpcReportParser ( src/Stack/Options/HpcReportParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/HpcReportParser.o )
+[119 of 126] Compiling Stack.Options.SDistParser ( src/Stack/Options/SDistParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/SDistParser.o )
+[120 of 126] Compiling Stack.Options.ExecParser ( src/Stack/Options/ExecParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ExecParser.o )
+[121 of 126] Compiling Stack.Options.BuildParser ( src/Stack/Options/BuildParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BuildParser.o )
+[122 of 126] Compiling Stack.Hoogle     ( src/Stack/Hoogle.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Hoogle.o )
+[123 of 126] Compiling Stack.Ghci       ( src/Stack/Ghci.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Ghci.o )
+[124 of 126] Compiling Stack.Options.GhciParser ( src/Stack/Options/GhciParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhciParser.o )
+[125 of 126] Compiling Stack.Dot        ( src/Stack/Dot.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Dot.o )
+[126 of 126] Compiling Stack.Options.DotParser ( src/Stack/Options/DotParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/DotParser.o )
+Preprocessing executable 'stack' for stack-1.5.1..
+Building executable 'stack' for stack-1.5.1..
+[1 of 2] Compiling Paths_stack      ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/autogen/Paths_stack.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack-tmp/Paths_stack.o )
+[2 of 2] Compiling Main             ( src/main/Main.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack ...
+stack-1.5.1: copy/register
+Installing library in /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/lib/x86_64-linux-ghc-8.2.1/stack-1.5.1-6ZYObAVxSJvEF0LVYoO7U7
+Installing executable stack in /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/bin
+Registering library for stack-1.5.1..
+Completed 176 action(s).
+
+real	11m17.476s
+user	26m58.184s
+sys	1m1.832s
+-rwxr-xr-x 1 doug fileservs 52696408 Oct 3 20:51 /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/bin/stack
+### TIMED BUILD OUTPUT WITH -split-sections
+[1 of 2] Compiling Main             ( /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-src/setup-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-src/setup-mPHDZzAJ.o )
+[2 of 2] Compiling StackSetupShim   ( /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-src/setup-shim-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-src/setup-shim-mPHDZzAJ.o )
+Linking /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-cache/x86_64-linux/tmp-Cabal-simple_mPHDZzAJ_2.0.0.2_ghc-8.2.1 ...
+annotated-wl-pprint-0.7.0: configure
+annotated-wl-pprint-0.7.0: build
+ansi-terminal-0.6.3.1: configure
+annotated-wl-pprint-0.7.0: copy/register
+ansi-terminal-0.6.3.1: build
+auto-update-0.1.4: configure
+auto-update-0.1.4: build
+base-compat-0.9.3: configure
+base-compat-0.9.3: build
+base-orphans-0.6: configure
+auto-update-0.1.4: copy/register
+base-orphans-0.6: build
+base16-bytestring-0.1.1.6: configure
+base-orphans-0.6: copy/register
+base16-bytestring-0.1.1.6: build
+base64-bytestring-1.0.0.1: configure
+base-compat-0.9.3: copy/register
+base64-bytestring-1.0.0.1: build
+basement-0.0.2: configure
+base16-bytestring-0.1.1.6: copy/register
+basement-0.0.2: build
+bindings-uname-0.1: configure
+bindings-uname-0.1: build
+base64-bytestring-1.0.0.1: copy/register
+ansi-terminal-0.6.3.1: copy/register
+bitarray-0.0.1.1: configure
+bindings-uname-0.1: copy/register
+bitarray-0.0.1.1: build
+ansi-wl-pprint-0.6.8.1: configure
+ansi-wl-pprint-0.6.8.1: build
+byteable-0.1.1: configure
+byteable-0.1.1: build
+byteable-0.1.1: copy/register
+cabal-doctest-1.0.2: configure
+bitarray-0.0.1.1: copy/register
+ansi-wl-pprint-0.6.8.1: copy/register
+cabal-doctest-1.0.2: build
+call-stack-0.1.0: configure
+call-stack-0.1.0: build
+cereal-0.5.4.0: configure
+cereal-0.5.4.0: build
+call-stack-0.1.0: copy/register
+HUnit-1.6.0.0: configure
+cabal-doctest-1.0.2: copy/register
+HUnit-1.6.0.0: build
+clock-0.7.2: configure
+clock-0.7.2: build
+HUnit-1.6.0.0: copy/register
+cryptohash-sha256-0.11.100.1: configure
+clock-0.7.2: copy/register
+cryptohash-sha256-0.11.100.1: build
+data-default-class-0.1.2.0: configure
+data-default-class-0.1.2.0: build
+cryptohash-sha256-0.11.100.1: copy/register
+data-default-class-0.1.2.0: copy/register
+digest-0.0.1.2: configure
+digest-0.0.1.2: build
+dlist-0.8.0.3: configure
+dlist-0.8.0.3: build
+digest-0.0.1.2: copy/register
+easy-file-0.2.1: configure
+easy-file-0.2.1: build
+dlist-0.8.0.3: copy/register
+echo-0.1.3: configure
+echo-0.1.3: build
+easy-file-0.2.1: copy/register
+ed25519-0.0.5.0: configure
+echo-0.1.3: copy/register
+ed25519-0.0.5.0: build
+extra-1.6: configure
+extra-1.6: build
+cereal-0.5.4.0: copy/register
+ed25519-0.0.5.0: copy/register
+fail-4.9.0.0: configure
+extra-1.6: copy/register
+fail-4.9.0.0: build
+file-embed-0.0.10.1: configure
+fail-4.9.0.0: copy/register
+file-embed-0.0.10.1: build
+filelock-0.1.1.2: configure
+filelock-0.1.1.2: build
+generic-deriving-1.11.2: configure
+generic-deriving-1.11.2: build
+file-embed-0.0.10.1: copy/register
+filelock-0.1.1.2: copy/register
+gitrev-1.3.1: configure
+gitrev-1.3.1: build
+hourglass-0.2.10: configure
+hourglass-0.2.10: build
+gitrev-1.3.1: copy/register
+hspec-discover-2.4.4: configure
+hspec-discover-2.4.4: build
+hspec-discover-2.4.4: copy/register
+hspec-expectations-0.8.2: configure
+hspec-expectations-0.8.2: build
+hspec-expectations-0.8.2: copy/register
+ieee754-0.8.0: configure
+ieee754-0.8.0: build
+ieee754-0.8.0: copy/register
+integer-logarithms-1.0.2: configure
+integer-logarithms-1.0.2: build
+integer-logarithms-1.0.2: copy/register
+basement-0.0.2: copy/register
+microlens-0.4.8.1: configure
+hourglass-0.2.10: copy/register
+microlens-0.4.8.1: build
+foundation-0.0.15: configure
+foundation-0.0.15: build
+mintty-0.1.1: configure
+mintty-0.1.1: build
+mintty-0.1.1: copy/register
+monad-loops-0.4.3: configure
+monad-loops-0.4.3: build
+microlens-0.4.8.1: copy/register
+microlens-th-0.4.1.1: configure
+microlens-th-0.4.1.1: build
+monad-loops-0.4.3: copy/register
+mtl-2.2.1: configure
+mtl-2.2.1: build
+microlens-th-0.4.1.1: copy/register
+network-2.6.3.2: configure
+mtl-2.2.1: copy/register
+network-2.6.3.2: build
+logict-0.6.0.2: configure
+logict-0.6.0.2: build
+logict-0.6.0.2: copy/register
+old-locale-1.0.0.7: configure
+old-locale-1.0.0.7: build
+generic-deriving-1.11.2: copy/register
+old-locale-1.0.0.7: copy/register
+open-browser-0.2.1.0: configure
+open-browser-0.2.1.0: build
+old-time-1.1.0.3: configure
+open-browser-0.2.1.0: copy/register
+old-time-1.1.0.3: build
+pem-0.2.2: configure
+pem-0.2.2: build
+pem-0.2.2: copy/register
+pid1-0.1.2.0: configure
+network-2.6.3.2: copy/register
+pid1-0.1.2.0: build
+prelude-extras-0.4.0.3: configure
+prelude-extras-0.4.0.3: build
+pid1-0.1.2.0: copy/register
+primitive-0.6.2.0: configure
+old-time-1.1.0.3: copy/register
+primitive-0.6.2.0: build
+random-1.1: configure
+random-1.1: build
+prelude-extras-0.4.0.3: copy/register
+regex-applicative-0.3.3: configure
+regex-applicative-0.3.3: build
+regex-applicative-0.3.3: copy/register
+safe-0.3.15: configure
+safe-0.3.15: build
+random-1.1: copy/register
+semigroups-0.18.3: configure
+semigroups-0.18.3: build
+safe-0.3.15: copy/register
+primitive-0.6.2.0: copy/register
+setenv-0.1.1.3: configure
+semigroups-0.18.3: copy/register
+setenv-0.1.1.3: build
+silently-1.2.5: configure
+setenv-0.1.1.3: copy/register
+silently-1.2.5: build
+smallcheck-1.1.2: configure
+smallcheck-1.1.2: build
+socks-0.5.5: configure
+silently-1.2.5: copy/register
+socks-0.5.5: build
+split-0.2.3.2: configure
+split-0.2.3.2: build
+split-0.2.3.2: copy/register
+stm-2.4.4.1: configure
+stm-2.4.4.1: build
+smallcheck-1.1.2: copy/register
+syb-0.7: configure
+stm-2.4.4.1: copy/register
+syb-0.7: build
+StateVar-1.1.0.4: configure
+StateVar-1.1.0.4: build
+foundation-0.0.15: copy/register
+async-2.1.1.1: configure
+StateVar-1.1.0.4: copy/register
+async-2.1.1.1: build
+memory-0.14.8: configure
+memory-0.14.8: build
+socks-0.5.5: copy/register
+stm-chans-3.0.0.4: configure
+syb-0.7: copy/register
+async-2.1.1.1: copy/register
+stm-chans-3.0.0.4: build
+tar-0.5.0.3: configure
+tar-0.5.0.3: build
+hinotify-0.3.9: configure
+hinotify-0.3.9: build
+stm-chans-3.0.0.4: copy/register
+text-1.2.2.2: configure
+text-1.2.2.2: build
+memory-0.14.8: copy/register
+asn1-types-0.3.2: configure
+hinotify-0.3.9: copy/register
+asn1-types-0.3.2: build
+cryptonite-0.24: configure
+cryptonite-0.24: build
+asn1-types-0.3.2: copy/register
+asn1-encoding-0.9.5: configure
+asn1-encoding-0.9.5: build
+tar-0.5.0.3: copy/register
+tf-random-0.5: configure
+tf-random-0.5: build
+asn1-encoding-0.9.5: copy/register
+asn1-parse-0.9.4: configure
+asn1-parse-0.9.4: build
+asn1-parse-0.9.4: copy/register
+tf-random-0.5: copy/register
+th-abstraction-0.2.6.0: configure
+th-abstraction-0.2.6.0: build
+QuickCheck-2.10.0.1: configure
+QuickCheck-2.10.0.1: build
+th-abstraction-0.2.6.0: copy/register
+th-expand-syns-0.4.3.0: configure
+th-expand-syns-0.4.3.0: build
+th-expand-syns-0.4.3.0: copy/register
+th-lift-0.7.7: configure
+th-lift-0.7.7: build
+th-lift-0.7.7: copy/register
+th-reify-many-0.1.8: configure
+th-reify-many-0.1.8: build
+th-reify-many-0.1.8: copy/register
+time-locale-compat-0.1.1.3: configure
+time-locale-compat-0.1.1.3: build
+time-locale-compat-0.1.1.3: copy/register
+transformers-compat-0.5.1.4: configure
+transformers-compat-0.5.1.4: build
+transformers-compat-0.5.1.4: copy/register
+Glob-0.8.0: configure
+Glob-0.8.0: build
+QuickCheck-2.10.0.1: copy/register
+MonadRandom-0.5.1: configure
+MonadRandom-0.5.1: build
+Glob-0.8.0: copy/register
+exceptions-0.8.3: configure
+exceptions-0.8.3: build
+MonadRandom-0.5.1: copy/register
+microlens-mtl-0.1.11.0: configure
+microlens-mtl-0.1.11.0: build
+exceptions-0.8.3: copy/register
+mmorph-1.1.0: configure
+mmorph-1.1.0: build
+microlens-mtl-0.1.11.0: copy/register
+optparse-applicative-0.14.0.0: configure
+optparse-applicative-0.14.0.0: build
+mmorph-1.1.0: copy/register
+quickcheck-io-0.2.0: configure
+quickcheck-io-0.2.0: build
+quickcheck-io-0.2.0: copy/register
+hspec-core-2.4.4: configure
+hspec-core-2.4.4: build
+optparse-applicative-0.14.0.0: copy/register
+retry-0.7.4.2: configure
+retry-0.7.4.2: build
+hspec-core-2.4.4: copy/register
+hspec-2.4.4: configure
+retry-0.7.4.2: copy/register
+hspec-2.4.4: build
+hspec-smallcheck-0.4.2: configure
+hspec-smallcheck-0.4.2: build
+hspec-2.4.4: copy/register
+hspec-smallcheck-0.4.2: copy/register
+tagged-0.8.5: configure
+tagged-0.8.5: build
+temporary-1.2.1.1: configure
+temporary-1.2.1.1: build
+temporary-1.2.1.1: copy/register
+transformers-base-0.4.4: configure
+transformers-base-0.4.4: build
+tagged-0.8.5: copy/register
+distributive-0.5.3: configure
+transformers-base-0.4.4: copy/register
+distributive-0.5.3: build
+monad-control-1.0.2.2: configure
+monad-control-1.0.2.2: build
+distributive-0.5.3: copy/register
+unix-compat-0.4.3.1: configure
+monad-control-1.0.2.2: copy/register
+unix-compat-0.4.3.1: build
+lifted-base-0.2.3.11: configure
+lifted-base-0.2.3.11: build
+unix-compat-0.4.3.1: copy/register
+unix-time-0.3.7: configure
+text-1.2.2.2: copy/register
+lifted-base-0.2.3.11: copy/register
+unix-time-0.3.7: build
+blaze-builder-0.4.0.2: configure
+blaze-builder-0.4.0.2: build
+fsnotify-0.2.1.1: configure
+fsnotify-0.2.1.1: build
+unix-time-0.3.7: copy/register
+fast-logger-2.4.10: configure
+cryptonite-0.24: copy/register
+fast-logger-2.4.10: build
+cryptohash-0.11.9: configure
+cryptohash-0.11.9: build
+fsnotify-0.2.1.1: copy/register
+blaze-builder-0.4.0.2: copy/register
+hashable-1.2.6.1: configure
+hashable-1.2.6.1: build
+blaze-markup-0.8.0.0: configure
+fast-logger-2.4.10: copy/register
+blaze-markup-0.8.0.0: build
+cookie-0.4.2.1: configure
+cookie-0.4.2.1: build
+hashable-1.2.6.1: copy/register
+cookie-0.4.2.1: copy/register
+case-insensitive-1.2.0.10: configure
+cryptohash-0.11.9: copy/register
+case-insensitive-1.2.0.10: build
+hastache-0.6.1: configure
+hastache-0.6.1: build
+mime-types-0.1.0.7: configure
+mime-types-0.1.0.7: build
+case-insensitive-1.2.0.10: copy/register
+http-types-0.9.1: configure
+http-types-0.9.1: build
+blaze-markup-0.8.0.0: copy/register
+blaze-html-0.9.0.1: configure
+blaze-html-0.9.0.1: build
+http-types-0.9.1: copy/register
+parsec-3.1.11: configure
+parsec-3.1.11: build
+mime-types-0.1.0.7: copy/register
+path-pieces-0.2.1: configure
+path-pieces-0.2.1: build
+hastache-0.6.1: copy/register
+regex-applicative-text-0.1.0.1: configure
+path-pieces-0.2.1: copy/register
+regex-applicative-text-0.1.0.1: build
+resourcet-1.1.9: configure
+resourcet-1.1.9: build
+regex-applicative-text-0.1.0.1: copy/register
+scientific-0.3.5.2: configure
+scientific-0.3.5.2: build
+resourcet-1.1.9: copy/register
+conduit-1.2.12.1: configure
+parsec-3.1.11: copy/register
+conduit-1.2.12.1: build
+network-uri-2.6.1.0: configure
+network-uri-2.6.1.0: build
+scientific-0.3.5.2: copy/register
+attoparsec-0.13.2.0: configure
+blaze-html-0.9.0.1: copy/register
+attoparsec-0.13.2.0: build
+store-core-0.4.1: configure
+store-core-0.4.1: build
+network-uri-2.6.1.0: copy/register
+unicode-transforms-0.3.3: configure
+store-core-0.4.1: copy/register
+unicode-transforms-0.3.3: build
+unliftio-core-0.1.0.0: configure
+unliftio-core-0.1.0.0: build
+conduit-1.2.12.1: copy/register
+unordered-containers-0.2.8.0: configure
+unliftio-core-0.1.0.0: copy/register
+unordered-containers-0.2.8.0: build
+uuid-types-1.0.3: configure
+uuid-types-1.0.3: build
+uuid-types-1.0.3: copy/register
+vector-0.12.0.1: configure
+vector-0.12.0.1: build
+unordered-containers-0.2.8.0: copy/register
+void-0.7.2: configure
+void-0.7.2: build
+void-0.7.2: copy/register
+contravariant-1.4: configure
+contravariant-1.4: build
+contravariant-1.4: copy/register
+comonad-5.0.2: configure
+comonad-5.0.2: build
+comonad-5.0.2: copy/register
+bifunctors-5.4.2: configure
+bifunctors-5.4.2: build
+unicode-transforms-0.3.3: copy/register
+x509-1.7.2: configure
+x509-1.7.2: build
+attoparsec-0.13.2.0: copy/register
+attoparsec-iso8601-1.0.0.0: configure
+attoparsec-iso8601-1.0.0.0: build
+attoparsec-iso8601-1.0.0.0: copy/register
+zlib-0.6.1.2: configure
+zlib-0.6.1.2: build
+bifunctors-5.4.2: copy/register
+profunctors-5.2.1: configure
+profunctors-5.2.1: build
+x509-1.7.2: copy/register
+semigroupoids-5.2.1: configure
+semigroupoids-5.2.1: build
+zlib-0.6.1.2: copy/register
+hackage-security-0.5.2.2: configure
+hackage-security-0.5.2.2: build
+profunctors-5.2.1: copy/register
+streaming-commons-0.1.18: configure
+streaming-commons-0.1.18: build
+semigroupoids-5.2.1: copy/register
+free-4.12.4: configure
+free-4.12.4: build
+streaming-commons-0.1.18: copy/register
+conduit-extra-1.1.17: configure
+conduit-extra-1.1.17: build
+hackage-security-0.5.2.2: copy/register
+http-client-0.5.7.0: configure
+http-client-0.5.7.0: build
+free-4.12.4: copy/register
+either-4.4.1.1: configure
+either-4.4.1.1: build
+conduit-extra-1.1.17: copy/register
+cryptonite-conduit-0.2.0: configure
+cryptonite-conduit-0.2.0: build
+cryptonite-conduit-0.2.0: copy/register
+monad-logger-0.3.25.1: configure
+either-4.4.1.1: copy/register
+monad-logger-0.3.25.1: build
+optparse-simple-0.0.3: configure
+optparse-simple-0.0.3: build
+optparse-simple-0.0.3: copy/register
+project-template-0.2.0: configure
+http-client-0.5.7.0: copy/register
+project-template-0.2.0: build
+x509-store-1.6.5: configure
+x509-store-1.6.5: build
+monad-logger-0.3.25.1: copy/register
+unliftio-0.1.0.0: configure
+project-template-0.2.0: copy/register
+unliftio-0.1.0.0: build
+zip-archive-0.3.1.1: configure
+zip-archive-0.3.1.1: build
+x509-store-1.6.5: copy/register
+x509-system-1.6.6: configure
+x509-system-1.6.6: build
+x509-system-1.6.6: copy/register
+x509-validation-1.6.9: configure
+unliftio-0.1.0.0: copy/register
+x509-validation-1.6.9: build
+x509-validation-1.6.9: copy/register
+tls-1.4.0: configure
+zip-archive-0.3.1.1: copy/register
+tls-1.4.0: build
+vector-0.12.0.1: copy/register
+resource-pool-0.2.3.2: configure
+resource-pool-0.2.3.2: build
+text-metrics-0.3.0: configure
+text-metrics-0.3.0: build
+aeson-1.2.2.0: configure
+aeson-1.2.2.0: build
+resource-pool-0.2.3.2: copy/register
+th-lift-instances-0.1.11: configure
+th-lift-instances-0.1.11: build
+th-lift-instances-0.1.11: copy/register
+th-orphans-0.13.4: configure
+th-orphans-0.13.4: build
+text-metrics-0.3.0: copy/register
+uri-bytestring-0.2.3.3: configure
+uri-bytestring-0.2.3.3: build
+th-orphans-0.13.4: copy/register
+th-utilities-0.2.0.1: configure
+th-utilities-0.2.0.1: build
+uri-bytestring-0.2.3.3: copy/register
+http-api-data-0.3.7.1: configure
+th-utilities-0.2.0.1: copy/register
+http-api-data-0.3.7.1: build
+vector-th-unbox-0.2.1.6: configure
+vector-th-unbox-0.2.1.6: build
+vector-th-unbox-0.2.1.6: copy/register
+math-functions-0.2.1.0: configure
+math-functions-0.2.1.0: build
+tls-1.4.0: copy/register
+connection-0.2.8: configure
+connection-0.2.8: build
+connection-0.2.8: copy/register
+http-client-tls-0.3.5.1: configure
+http-client-tls-0.3.5.1: build
+http-client-tls-0.3.5.1: copy/register
+http-api-data-0.3.7.1: copy/register
+math-functions-0.2.1.0: copy/register
+mwc-random-0.13.6.0: configure
+mwc-random-0.13.6.0: build
+mwc-random-0.13.6.0: copy/register
+vector-algorithms-0.7.0.1: configure
+vector-algorithms-0.7.0.1: build
+aeson-1.2.2.0: copy/register
+aeson-compat-0.3.7.1: configure
+aeson-compat-0.3.7.1: build
+path-0.6.1: configure
+path-0.6.1: build
+http-conduit-2.2.3.2: configure
+aeson-compat-0.3.7.1: copy/register
+http-conduit-2.2.3.2: build
+persistent-2.7.0: configure
+persistent-2.7.0: build
+path-0.6.1: copy/register
+path-io-1.3.3: configure
+http-conduit-2.2.3.2: copy/register
+path-io-1.3.3: build
+yaml-0.8.23.3: configure
+vector-algorithms-0.7.0.1: copy/register
+yaml-0.8.23.3: build
+mono-traversable-1.0.2.1: configure
+mono-traversable-1.0.2.1: build
+path-io-1.3.3: copy/register
+yaml-0.8.23.3: copy/register
+hpack-0.18.1: configure
+hpack-0.18.1: build
+mono-traversable-1.0.2.1: copy/register
+store-0.4.3.2: configure
+store-0.4.3.2: build
+persistent-2.7.0: copy/register
+persistent-template-2.5.2: configure
+persistent-template-2.5.2: build
+persistent-sqlite-2.6.2: configure
+persistent-sqlite-2.6.2: build
+hpack-0.18.1: copy/register
+persistent-template-2.5.2: copy/register
+persistent-sqlite-2.6.2: copy/register
+store-0.4.3.2: copy/register
+stack-1.5.1: configure (lib + exe)
+[1 of 2] Compiling Main             ( /home/doug/ghc-dev/stack/Setup.hs, /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/Main.o )
+[2 of 2] Compiling StackSetupShim   ( /home/doug/ghc-dev/stack/dist/.stack-root2/setup-exe-src/setup-shim-mPHDZzAJ.hs, /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/StackSetupShim.o )
+Linking /home/doug/ghc-dev/stack/.stack-work/dist/x86_64-linux/Cabal-2.0.0.2/setup/setup ...
+Configuring stack-1.5.1...
+stack-1.5.1: build (lib + exe)
+Preprocessing library for stack-1.5.1..
+Building library for stack-1.5.1..
+[  1 of 126] Compiling Hackage.Security.Client.Repository.HttpLib.HttpClient ( src/Hackage/Security/Client/Repository/HttpLib/HttpClient.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Hackage/Security/Client/Repository/HttpLib/HttpClient.o )
+[  2 of 126] Compiling Paths_stack      ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/autogen/Paths_stack.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Paths_stack.o )
+[  3 of 126] Compiling Stack.Prelude    ( src/Stack/Prelude.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Prelude.o )
+[  4 of 126] Compiling Stack.Options.Utils ( src/Stack/Options/Utils.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/Utils.o )
+[  5 of 126] Compiling Stack.Options.LogLevelParser ( src/Stack/Options/LogLevelParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/LogLevelParser.o )
+[  6 of 126] Compiling Stack.Ghci.Script ( src/Stack/Ghci/Script.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Ghci/Script.o )
+[  7 of 126] Compiling Stack.FileWatch  ( src/Stack/FileWatch.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/FileWatch.o )
+[  8 of 126] Compiling Path.Find        ( src/Path/Find.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/Find.o )
+[  9 of 126] Compiling Path.Extra       ( src/Path/Extra.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/Extra.o )
+[ 10 of 126] Compiling Path.CheckInstall ( src/Path/CheckInstall.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Path/CheckInstall.o )
+[ 11 of 126] Compiling Options.Applicative.Complicated ( src/Options/Applicative/Complicated.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Complicated.o )
+[ 12 of 126] Compiling Options.Applicative.Builder.Extra ( src/Options/Applicative/Builder/Extra.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Builder/Extra.o )
+[ 13 of 126] Compiling Stack.Options.SolverParser ( src/Stack/Options/SolverParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/SolverParser.o )
+[ 14 of 126] Compiling Stack.Options.ScriptParser ( src/Stack/Options/ScriptParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ScriptParser.o )
+[ 15 of 126] Compiling Network.HTTP.Download.Verified ( src/Network/HTTP/Download/Verified.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Network/HTTP/Download/Verified.o )
+[ 16 of 126] Compiling Network.HTTP.Download ( src/Network/HTTP/Download.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Network/HTTP/Download.o )
+[ 17 of 126] Compiling Data.Store.VersionTagged ( src/Data/Store/VersionTagged.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Store/VersionTagged.o )
+[ 18 of 126] Compiling Data.IORef.RunOnce ( src/Data/IORef/RunOnce.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/IORef/RunOnce.o )
+[ 19 of 126] Compiling Data.Attoparsec.Combinators ( src/Data/Attoparsec/Combinators.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Combinators.o )
+[ 20 of 126] Compiling Data.Attoparsec.Args ( src/Data/Attoparsec/Args.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Args.o )
+[ 21 of 126] Compiling Options.Applicative.Args ( src/Options/Applicative/Args.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Options/Applicative/Args.o )
+[ 22 of 126] Compiling Data.Aeson.Extended ( src/Data/Aeson/Extended.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Aeson/Extended.o )
+[ 23 of 126] Compiling Stack.StaticBytes ( src/Stack/StaticBytes.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/StaticBytes.o )
+[ 24 of 126] Compiling Stack.Types.CompilerBuild ( src/Stack/Types/CompilerBuild.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/CompilerBuild.o )
+[ 25 of 126] Compiling Stack.Options.GhcBuildParser ( src/Stack/Options/GhcBuildParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhcBuildParser.o )
+[ 26 of 126] Compiling Stack.Types.FlagName ( src/Stack/Types/FlagName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/FlagName.o )
+[ 27 of 126] Compiling Stack.Types.GhcPkgId ( src/Stack/Types/GhcPkgId.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/GhcPkgId.o )
+[ 28 of 126] Compiling Stack.Types.Image ( src/Stack/Types/Image.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Image.o )
+[ 29 of 126] Compiling Stack.Types.Nix  ( src/Stack/Types/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Nix.o )
+[ 30 of 126] Compiling Stack.Types.PackageName ( src/Stack/Types/PackageName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageName.o )
+[ 31 of 126] Compiling Stack.Types.Config.Build ( src/Stack/Types/Config/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Config/Build.o )
+[ 32 of 126] Compiling Stack.Options.PackageParser ( src/Stack/Options/PackageParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/PackageParser.o )
+[ 33 of 126] Compiling Stack.Types.Sig  ( src/Stack/Types/Sig.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Sig.o )
+[ 34 of 126] Compiling Stack.Sig.GPG    ( src/Stack/Sig/GPG.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig/GPG.o )
+[ 35 of 126] Compiling Stack.Types.TemplateName ( src/Stack/Types/TemplateName.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/TemplateName.o )
+[ 36 of 126] Compiling Stack.Types.Urls ( src/Stack/Types/Urls.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Urls.o )
+[ 37 of 126] Compiling Stack.Config.Urls ( src/Stack/Config/Urls.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Urls.o )
+[ 38 of 126] Compiling Stack.Types.Version ( src/Stack/Types/Version.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Version.o )
+[ 39 of 126] Compiling Stack.Types.PackageIdentifier ( src/Stack/Types/PackageIdentifier.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageIdentifier.o )
+[ 40 of 126] Compiling Stack.Types.PackageIndex ( src/Stack/Types/PackageIndex.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageIndex.o )
+[ 41 of 126] Compiling Stack.Types.PackageDump ( src/Stack/Types/PackageDump.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/PackageDump.o )
+[ 42 of 126] Compiling Control.Concurrent.Execute ( src/Control/Concurrent/Execute.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Control/Concurrent/Execute.o )
+[ 43 of 126] Compiling Stack.Types.Compiler ( src/Stack/Types/Compiler.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Compiler.o )
+[ 44 of 126] Compiling Stack.Types.Resolver ( src/Stack/Types/Resolver.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Resolver.o )
+[ 45 of 126] Compiling Stack.Options.ResolverParser ( src/Stack/Options/ResolverParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ResolverParser.o )
+[ 46 of 126] Compiling Stack.Constants  ( src/Stack/Constants.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Constants.o )
+[ 47 of 126] Compiling Stack.Types.Docker ( src/Stack/Types/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Docker.o )
+[ 48 of 126] Compiling Data.Attoparsec.Interpreter ( src/Data/Attoparsec/Interpreter.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Data/Attoparsec/Interpreter.o )
+[ 49 of 126] Compiling Stack.Config.Nix ( src/Stack/Config/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Nix.o )
+[ 50 of 126] Compiling Stack.Types.VersionIntervals ( src/Stack/Types/VersionIntervals.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/VersionIntervals.o )
+[ 51 of 126] Compiling Stack.Types.BuildPlan ( src/Stack/Types/BuildPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/BuildPlan.o )
+[ 52 of 126] Compiling System.Process.Log ( src/System/Process/Log.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Log.o )
+[ 53 of 126] Compiling System.Process.PagerEditor ( src/System/Process/PagerEditor.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/PagerEditor.o )
+[ 54 of 126] Compiling System.Process.Read ( src/System/Process/Read.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Read.o )
+[ 55 of 126] Compiling System.Process.Run ( src/System/Process/Run.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Process/Run.o )
+[ 56 of 126] Compiling System.Terminal  ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Terminal.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/System/Terminal.o )
+[ 57 of 126] Compiling Stack.Types.Runner ( src/Stack/Types/Runner.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Runner.o )
+[ 58 of 126] Compiling Stack.Types.Config ( src/Stack/Types/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Config.o )
+[ 59 of 126] Compiling Stack.Upload     ( src/Stack/Upload.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Upload.o )
+[ 60 of 126] Compiling Stack.Types.Package ( src/Stack/Types/Package.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Package.o )
+[ 61 of 126] Compiling Stack.Types.Build ( src/Stack/Types/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Types/Build.o )
+[ 62 of 126] Compiling Stack.GhcPkg     ( src/Stack/GhcPkg.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/GhcPkg.o )
+[ 63 of 126] Compiling Stack.PackageDump ( src/Stack/PackageDump.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageDump.o )
+[ 64 of 126] Compiling Stack.Setup.Installed ( src/Stack/Setup/Installed.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Setup/Installed.o )
+[ 65 of 126] Compiling Stack.PackageIndex ( src/Stack/PackageIndex.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageIndex.o )
+[ 66 of 126] Compiling Stack.Options.TestParser ( src/Stack/Options/TestParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/TestParser.o )
+[ 67 of 126] Compiling Stack.Options.HaddockParser ( src/Stack/Options/HaddockParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/HaddockParser.o )
+[ 68 of 126] Compiling Stack.Options.GhcVariantParser ( src/Stack/Options/GhcVariantParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhcVariantParser.o )
+[ 69 of 126] Compiling Stack.Options.BenchParser ( src/Stack/Options/BenchParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BenchParser.o )
+[ 70 of 126] Compiling Stack.Fetch      ( src/Stack/Fetch.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Fetch.o )
+[ 71 of 126] Compiling Stack.Exec       ( src/Stack/Exec.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Exec.o )
+[ 72 of 126] Compiling Stack.Docker.GlobalDB ( src/Stack/Docker/GlobalDB.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Docker/GlobalDB.o )
+[ 73 of 126] Compiling Stack.Constants.Config ( src/Stack/Constants/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Constants/Config.o )
+[ 74 of 126] Compiling Stack.New        ( src/Stack/New.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/New.o )
+[ 75 of 126] Compiling Stack.Config.Docker ( src/Stack/Config/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Docker.o )
+[ 76 of 126] Compiling Stack.Config.Build ( src/Stack/Config/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config/Build.o )
+[ 77 of 126] Compiling Stack.Build.Cache ( src/Stack/Build/Cache.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Cache.o )
+[ 78 of 126] Compiling Stack.Build.Installed ( src/Stack/Build/Installed.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Installed.o )
+[ 79 of 126] Compiling Stack.Path       ( src/Stack/Path.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Path.o )
+[ 80 of 126] Compiling Text.PrettyPrint.Leijen.Extended ( src/Text/PrettyPrint/Leijen/Extended.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Text/PrettyPrint/Leijen/Extended.o )
+[ 81 of 126] Compiling Stack.PrettyPrint ( src/Stack/PrettyPrint.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PrettyPrint.o )
+[ 82 of 126] Compiling Stack.Package    ( src/Stack/Package.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Package.o )
+[ 83 of 126] Compiling Stack.Sig.Sign   ( src/Stack/Sig/Sign.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig/Sign.o )
+[ 84 of 126] Compiling Stack.Sig        ( src/Stack/Sig.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Sig.o )
+[ 85 of 126] Compiling Stack.PackageLocation ( src/Stack/PackageLocation.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/PackageLocation.o )
+[ 86 of 126] Compiling Stack.Snapshot   ( src/Stack/Snapshot.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Snapshot.o )
+[ 87 of 126] Compiling Stack.BuildPlan  ( src/Stack/BuildPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/BuildPlan.o )
+[ 88 of 126] Compiling Stack.Image      ( src/Stack/Image.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Image.o )
+[ 89 of 126] Compiling Stack.Config     ( src/Stack/Config.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Config.o )
+[ 90 of 126] Compiling Stack.Nix        ( src/Stack/Nix.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Nix.o )
+[ 91 of 126] Compiling Stack.Options.NixParser ( src/Stack/Options/NixParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/NixParser.o )
+[ 92 of 126] Compiling Stack.IDE        ( src/Stack/IDE.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/IDE.o )
+[ 93 of 126] Compiling Stack.ConfigCmd  ( src/Stack/ConfigCmd.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/ConfigCmd.o )
+[ 94 of 126] Compiling Stack.Clean      ( src/Stack/Clean.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Clean.o )
+[ 95 of 126] Compiling Stack.Options.CleanParser ( src/Stack/Options/CleanParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/CleanParser.o )
+[ 96 of 126] Compiling Stack.Build.Target ( src/Stack/Build/Target.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Target.o )
+[ 97 of 126] Compiling Stack.Build.Source ( src/Stack/Build/Source.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Source.o )
+[ 98 of 126] Compiling Stack.Coverage   ( src/Stack/Coverage.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Coverage.o )
+[ 99 of 126] Compiling Stack.Build.Haddock ( src/Stack/Build/Haddock.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Haddock.o )
+[100 of 126] Compiling Stack.Build.Execute ( src/Stack/Build/Execute.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/Execute.o )
+[101 of 126] Compiling Stack.Build.ConstructPlan ( src/Stack/Build/ConstructPlan.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build/ConstructPlan.o )
+[102 of 126] Compiling Stack.Build      ( src/Stack/Build.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Build.o )
+[103 of 126] Compiling Stack.Setup      ( src/Stack/Setup.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Setup.o )
+[104 of 126] Compiling Stack.Upgrade    ( src/Stack/Upgrade.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Upgrade.o )
+[105 of 126] Compiling Stack.Solver     ( src/Stack/Solver.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Solver.o )
+[106 of 126] Compiling Stack.Init       ( src/Stack/Init.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Init.o )
+[107 of 126] Compiling Stack.SetupCmd   ( src/Stack/SetupCmd.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/SetupCmd.o )
+[108 of 126] Compiling Stack.Docker     ( src/Stack/Docker.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Docker.o )
+[109 of 126] Compiling Stack.Runners    ( src/Stack/Runners.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Runners.o )
+[110 of 126] Compiling Stack.Options.DockerParser ( src/Stack/Options/DockerParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/DockerParser.o )
+[111 of 126] Compiling Stack.Script     ( src/Stack/Script.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Script.o )
+[112 of 126] Compiling Stack.SDist      ( src/Stack/SDist.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/SDist.o )
+[113 of 126] Compiling Stack.Options.BuildMonoidParser ( src/Stack/Options/BuildMonoidParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BuildMonoidParser.o )
+[114 of 126] Compiling Stack.Options.ConfigParser ( src/Stack/Options/ConfigParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ConfigParser.o )
+[115 of 126] Compiling Stack.Options.GlobalParser ( src/Stack/Options/GlobalParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GlobalParser.o )
+[116 of 126] Compiling Stack.Options.NewParser ( src/Stack/Options/NewParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/NewParser.o )
+[117 of 126] Compiling Stack.Options.Completion ( src/Stack/Options/Completion.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/Completion.o )
+[118 of 126] Compiling Stack.Options.HpcReportParser ( src/Stack/Options/HpcReportParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/HpcReportParser.o )
+[119 of 126] Compiling Stack.Options.SDistParser ( src/Stack/Options/SDistParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/SDistParser.o )
+[120 of 126] Compiling Stack.Options.ExecParser ( src/Stack/Options/ExecParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/ExecParser.o )
+[121 of 126] Compiling Stack.Options.BuildParser ( src/Stack/Options/BuildParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/BuildParser.o )
+[122 of 126] Compiling Stack.Hoogle     ( src/Stack/Hoogle.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Hoogle.o )
+[123 of 126] Compiling Stack.Ghci       ( src/Stack/Ghci.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Ghci.o )
+[124 of 126] Compiling Stack.Options.GhciParser ( src/Stack/Options/GhciParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/GhciParser.o )
+[125 of 126] Compiling Stack.Dot        ( src/Stack/Dot.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Dot.o )
+[126 of 126] Compiling Stack.Options.DotParser ( src/Stack/Options/DotParser.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/Stack/Options/DotParser.o )
+Preprocessing executable 'stack' for stack-1.5.1..
+Building executable 'stack' for stack-1.5.1..
+[1 of 2] Compiling Paths_stack      ( .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/autogen/Paths_stack.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack-tmp/Paths_stack.o )
+[2 of 2] Compiling Main             ( src/main/Main.hs, .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack-tmp/Main.o )
+Linking .stack-work/dist/x86_64-linux/Cabal-2.0.0.2/build/stack/stack ...
+stack-1.5.1: copy/register
+Installing library in /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/lib/x86_64-linux-ghc-8.2.1/stack-1.5.1-6ZYObAVxSJvEF0LVYoO7U7
+Installing executable stack in /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/bin
+Registering library for stack-1.5.1..
+Completed 176 action(s).
+
+real	11m19.815s
+user	26m46.924s
+sys	1m2.628s
+-rwxr-xr-x 1 doug fileservs 24642832 Oct 3 21:04 /home/doug/ghc-dev/stack/.stack-work/install/x86_64-linux/nightly-2017-09-29/8.2.1/bin/stack
